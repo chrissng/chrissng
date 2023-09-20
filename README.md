@@ -1,4 +1,6 @@
-Currently based in :jp:, I am with ExaWizards as a tech lead. Before this, I worked with :singapore:-based firms BasisAI, Grab, GovTech and DSTA.
+From :singapore: and currently based in :jp:, I work as a Platform Engineer at ExaWizards.
+
+Some of the projects I've contributed to include:
 
 - exaBase ML platform at [ExaWizards](https://github.com/exwzd)
 - Bedrock ML platform at [BasisAI](https://github.com/basisai) (acquired by [Aicadium](https://github.com/aicadium))
