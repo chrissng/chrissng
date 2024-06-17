@@ -1,7 +1,8 @@
-From :singapore: and currently based in :jp:, I work as a Platform Engineer at ExaWizards.
+From :singapore: and currently based in :jp:, I work as a Cloud Engineer at Woven by Toyota.
 
-Some of the projects I've contributed to include:
+Some of the products I've contributed to include:
 
+- Stargate platform at [Woven by Toyota](https://github.com/woven-planet)
 - exaBase ML platform at [ExaWizards](https://github.com/exwzd)
 - Bedrock ML platform at [BasisAI](https://github.com/basisai) (acquired by [Aicadium](https://github.com/aicadium))
 - Chimera (now Claudron) ML platform at [Grab](https://github.com/grab)
