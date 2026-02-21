@@ -2,10 +2,10 @@ From :singapore: and currently based in :jp:, I work as a Cloud Engineer at Wove
 
 Some of the products I've contributed to include:
 
-- Stargate platform at [Woven by Toyota](https://github.com/woven-planet)
+- Toyota's global developer platform at [Woven by Toyota](https://github.com/woven-planet)
 - exaBase ML platform at [ExaWizards](https://github.com/exwzd)
 - Bedrock ML platform at [BasisAI](https://github.com/basisai) (acquired by [Aicadium](https://github.com/aicadium))
-- Chimera (now Claudron) ML platform at [Grab](https://github.com/grab)
+- Chimera ML platform at [Grab](https://github.com/grab)
 - Smart Nation Sensor Platform at [GovTech](https://github.com/dsaidgovsg)
 - National Maritime Sensemaking System for DSTA
 - et al.
